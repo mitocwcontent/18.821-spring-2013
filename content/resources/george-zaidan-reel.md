@@ -1,0 +1,15 @@
+---
+content_type: resource
+description: ''
+file: null
+resourcetype: Video
+title: 'Project Laboratory in Mathematics: A Taste of Research'
+uid: b1499557-9d75-0029-c25e-c175e098ff27
+video_files:
+  archive_url: https://archive.org/download/MIT18.821S13/MIT18_821S13_project_laboratory_300k.mp4
+  video_captions_file: null
+  video_thumbnail_file: https://img.youtube.com/vi/rNoeRFC17fQ/default.jpg
+  video_transcript_file: null
+video_metadata:
+  youtube_id: rNoeRFC17fQ
+---
