@@ -1,0 +1,70 @@
+leftnav:
+- identifier: 214d39c0-3504-aa7b-fc04-e598802fbd82
+  name: Syllabus
+  url: /pages/syllabus
+  weight: 10
+- identifier: ec2313d3-69de-47df-dd15-cbe8027159c3
+  name: Introduction
+  url: /pages/introduction
+  weight: 20
+- identifier: bec96c2a-820c-0001-3acc-6c35fa9d840f
+  name: Logistics
+  url: /pages/logistics
+  weight: 30
+- identifier: 69676efe-fd0b-844f-5e6f-8555a8c9f2ef
+  name: Calendar
+  url: /pages/calendar
+  weight: 40
+- identifier: 36bb3771-5bb7-c4c1-610a-c4293a1af273
+  name: Staffing the Course
+  url: /pages/staffing-the-course
+  weight: 50
+- identifier: f21a7861-47b6-486b-a460-278ead9efa0a
+  name: Mathematical Work
+  url: /pages/mathematical-work
+  weight: 60
+- identifier: 1790141c-cb89-cb9c-3927-269166af5cac
+  name: Teamwork
+  url: /pages/teamwork/
+  weight: 70
+- identifier: 2edd45cf-e176-acaf-956e-1caebc5239e0
+  name: Forming Teams
+  parent: 1790141c-cb89-cb9c-3927-269166af5cac
+  url: /pages/teamwork/forming-teams
+  weight: 80
+- identifier: cc51014f-c167-ecae-32e3-b7759a8b851d
+  name: Writing
+  url: /pages/writing/
+  weight: 90
+- identifier: 8ec3e99d-a6f3-dfc0-93ba-e5789366aed0
+  name: Revision and Feedback
+  parent: cc51014f-c167-ecae-32e3-b7759a8b851d
+  url: /pages/writing/revision-and-feedback
+  weight: 100
+- identifier: 17bb2e38-7431-d4ad-29c7-4334834f27fa
+  name: Sample Student Papers
+  parent: cc51014f-c167-ecae-32e3-b7759a8b851d
+  url: /pages/writing/sample-student-papers
+  weight: 110
+- identifier: 85842b7f-8825-8ff1-fd12-52420523d316
+  name: Presentations
+  url: /pages/presentations/
+  weight: 120
+- identifier: 4c6b7d2d-d051-2066-919e-1154a5f1910a
+  name: Practice and Feedback
+  parent: 85842b7f-8825-8ff1-fd12-52420523d316
+  url: /pages/presentations/practice-and-feedback
+  weight: 130
+- identifier: fa0f8ae6-a7c9-e08b-92ca-77cdebecb9ed
+  name: Sample Student Presentation
+  parent: 85842b7f-8825-8ff1-fd12-52420523d316
+  url: /pages/presentations/sample-student-presentation
+  weight: 140
+- identifier: 6d3bec05-d850-9c0b-0589-06d3c7fcaed0
+  name: Grading
+  url: /pages/grading
+  weight: 150
+- identifier: bbed0b6c-69d3-1968-3035-f0a8f3754621
+  name: Related Resources
+  url: /pages/related-resources
+  weight: 160
